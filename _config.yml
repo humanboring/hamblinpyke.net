@@ -1,0 +1,23 @@
+title: BHP
+email: benjamin@hamblinpyke.net
+description: Benjamin Hamblin-Pyke's homepage
+baseurl:
+url: https://www.hamblinpyke.net
+locale: en-gb
+twitter_username: hamblin-pyke
+
+
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-poole
+plugins:
+  - s3_website
+  - jekyll-feed
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - s3_website.yml
+  - deploy.sh
