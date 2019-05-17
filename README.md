@@ -1,6 +1,6 @@
 # hamblinpyke.net
 Source for my Jekyll site
 
-Theme is based on the Jekyll theme (Athena)[https://github.com/broccolini/athena] by (Diana Mounter)[https://github.com/broccolini]. 
+Theme is based on the Jekyll theme (Poole)[https://github.com/poole/poole] by (Mark Otto)[https://github.com/mdo]. 
 
-All posts are (c) Benjamin Hamblin-Pyke.
+All content is (c) Benjamin Hamblin-Pyke.
