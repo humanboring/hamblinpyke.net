@@ -10,14 +10,12 @@ twitter_username: hamblin-pyke
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-poole
+theme: jekyll-swiss
 plugins:
-  - s3_website
-  - jekyll-feed
+  - jekyll-json-feed
   - jekyll-sitemap
 
 exclude:
   - Gemfile
   - Gemfile.lock
-  - s3_website.yml
   - deploy.sh
