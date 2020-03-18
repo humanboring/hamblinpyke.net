@@ -14,8 +14,5 @@ gem 'jekyll'
 group :jekyll_plugins do
 
 gem 'font-awesome-sass'
-gem 'jekyll-json-feed'
-gem 'jekyll-sitemap'
-
 
 end

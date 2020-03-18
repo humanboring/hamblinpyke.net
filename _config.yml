@@ -12,8 +12,7 @@ twitter_username: hamblin-pyke
 markdown: kramdown
 theme: jekyll-swiss
 plugins:
-  - jekyll-json-feed
-  - jekyll-sitemap
+
 
 exclude:
   - Gemfile
