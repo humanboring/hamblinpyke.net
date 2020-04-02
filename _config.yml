@@ -1,5 +1,4 @@
-title: BHP
-email: benjamin@hamblinpyke.net
+title: Hamblin-Pyke
 description: Benjamin Hamblin-Pyke's homepage
 baseurl:
 url: https://www.hamblinpyke.net
@@ -11,8 +10,6 @@ twitter_username: hamblin-pyke
 # Build settings
 markdown: kramdown
 theme: jekyll-swiss
-plugins:
-
 
 exclude:
   - Gemfile
